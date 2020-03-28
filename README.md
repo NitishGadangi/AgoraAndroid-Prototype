@@ -1,6 +1,8 @@
 # AgoraAndroid-Prototype
 Prototype build for AgoraAndroid App based on UI Mockups
 
+I will be uploading the whole code here soon....
+
 Here is the explaination for the UI Mockups as explained in [!232](https://gitlab.com/aossie/agora-android/-/merge_requests/232)
 
 ### App Theme
