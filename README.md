@@ -1,5 +1,5 @@
 # AgoraAndroid-Prototype
-Prototype build for AgoraAndroid App based on UI Mockups
+Dummy Prototype build for AgoraAndroid App based on UI Mockups
 
 I will be uploading the whole code here soon....
 
